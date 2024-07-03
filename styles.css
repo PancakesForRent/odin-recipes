@@ -1,0 +1,24 @@
+.heading{
+    font-family: 'Helvetica', sans-serif;
+}
+
+h1.heading{
+    color: hsl(247, 100%, 40%);
+}
+
+.content-box{
+    background-color: rgb(255, 213, 213);
+    text-align: right
+}
+
+.content-box a{
+    font-size: 22px;
+}
+
+#description, #ingredients, #steps{
+    border: 1px black solid;
+    padding: 0 5px;
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
